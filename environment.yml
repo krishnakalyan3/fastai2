@@ -12,7 +12,7 @@ dependencies:
 - requests
 - pyyaml
 - fastprogress>=0.1.22
-- pillow
+- pillow<=6.1
 - python>=3.6
 - pip
 - scikit-learn
